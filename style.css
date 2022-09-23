@@ -1,0 +1,49 @@
+#home{
+text-align:center;
+height:500px;
+margin-bottom: 30px;
+background-color:beige
+}
+.profile{
+height:350;
+border-radius:25px;
+margin-top:43px;
+}
+#bio{
+text-align:center;
+background-color:beige
+}
+.line{
+height:6px;
+width:70px;
+margin:8px auto;
+background-color:grey;
+}
+p{
+max-width:700px;
+margin:25px auto;
+}
+#name{
+font-size:35;
+color:saddlebrown;
+text-shadow:10px 10px 25px grey;
+font-family: 'Inconsolata', monospace;
+}
+.Menu{
+list-style: none;
+position:absolute;
+top:10px;
+right:20px;
+cursor:pointer;
+}
+.Link{
+float:left;
+padding-left:5px;
+padding-right:5px;
+font-size:19;
+color:dimgrey
+}
+.Link:hover
+{
+font-size:23
+}
